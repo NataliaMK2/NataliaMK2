@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 style="color: #ff69b4;">Hi! 👋 I'm Natalia</h1>
+<h1 style="color: #ff69b4; font-family: 'Arial', sans-serif; font-size: 36px; text-align: center; margin-top:50px;">Welcome🌟 I'm Natalia</h1>
     <p style="color: #008080;">High School Student in Web Applications | Full-Stack Web Developer since 2021 </p>
 </div>
 
@@ -25,13 +25,12 @@
 
 <div align="center">
     <h3 style="color: #ff1493;">📊 Statistics </h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=NataliaMK2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Natalia's GitHub Stats">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaMK2&layout=compact&theme=radical" alt="Natalia's Top Languages">
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NataliaMK2&theme=radical" alt="Natalia's GitHub Streak">
     <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=NataliaMK2&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00" alt="Natalia's Activity Graph">
+  
 </div>
 
 <div align="center">
