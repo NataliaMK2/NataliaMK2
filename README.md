@@ -25,20 +25,11 @@
 
 <div align="center">
     <h3 style="color: #ff1493;">📊 Statistics </h3>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaMK2&layout=compact&theme=radical" alt="Natalia's Top Languages">
-    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NataliaMK2&theme=radical" alt="Natalia's GitHub Streak">
     <br>
   
 </div>
 
-<div align="center">
-    <h3 style="color: #00ff7f;">📫 Contact </h3>
-    <a href="https://www.linkedin.com/in/notnow" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</div>
 
 
 
